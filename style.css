@@ -1,0 +1,44 @@
+/* 1. Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* 2. Header Styling */
+.header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 4px solid #388E3C;
+}
+
+/* 3. Paragraph Styling */
+.intro {
+    font-size: 18px;
+    color: #555;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* 4. Image Styling */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #333;
+    padding: 5px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+/* 5. Footer Styling */
+#footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
